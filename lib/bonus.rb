@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  [heroine_friends] = dead
+  [heroine_friends] = "dead"
 
   
 
