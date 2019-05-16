@@ -21,6 +21,6 @@ def bonus
   }
 
   [heroine_friends]= "dead"
-
+end
 return  epic_tragedy
 end
