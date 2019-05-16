@@ -20,7 +20,6 @@ def bonus
    }
   }
 
-  [heroine_friends] = "dead"
-end
+  epic_tragedy[:montague] [:hero [:status] = "dead"
 return  epic_tragedy
 end
